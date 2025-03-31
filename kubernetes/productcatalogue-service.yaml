@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
       - name: productcatalogue
-        image: DevOpsRiya-999/productcatalogue:latest
+        image: riya9421/productcatalogue:latest
         ports:
         - containerPort: 8020
         livenessProbe:
