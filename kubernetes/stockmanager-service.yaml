@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
       - name: stockmanager
-        image: DevOpsRiya-999/stockmanager:latest
+        image: riya9421/stockmanager:latest
         ports:
         - containerPort: 8030
         livenessProbe:
