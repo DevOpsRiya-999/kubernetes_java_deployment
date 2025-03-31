@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
       - name: shopfront
-        image: DevOpsRiya-999/shopfront:latest
+        image: riya9421/shopfront:latest
         ports:
         - containerPort: 8010
         livenessProbe:
